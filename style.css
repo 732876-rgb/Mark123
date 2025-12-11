@@ -4,8 +4,9 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    color: #7a1313;
-    background-color: #fff;
-}   img 
-widt:hhttps://www.eatingwell.com/thmb/Sud6f5AxXQDmX-_LSVZOafBF96w=/1500x0/filters:no_upscale():max_bytes(150000):icc()/boba-tea-explainer-131c892c9c8540bdac4f6a0b403263df.jpg
-text-align:center;
+    color: #ffffff;
+    background-color: tomato;
+} 
+img {
+  width: 200px;
+}
